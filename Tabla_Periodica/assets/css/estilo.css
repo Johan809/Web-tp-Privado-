@@ -1,0 +1,32 @@
+.cuadricula{
+    display: inline-block;
+    width: 70px;
+    height: 50px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    line-height: 50px;
+    font-size: 22px;
+}
+    
+.espacio1{    
+    display: inline-block;
+    /*width: 1185px;*/
+    width: 87.9%;
+    height: 30px;
+}
+
+.espacio2{
+    display: inline-block;
+    /*width: 740px;*/
+    width: 54.85%;
+    height: 20px;    
+}
+
+.espacio3{
+    display: inline-block;
+    width: 16.2%;
+    height: 20px;
+}
+    
+    
